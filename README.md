@@ -1,4 +1,7 @@
-# django-scrapy-drf-minimalistic
+
+#### Django DRF Scrapy Starter
+
+### django-scrapy-drf-minimalistic
 
 The purpose of this repo is demonstrate a simple configuration of Scrapy and Django-DRF. 
 
